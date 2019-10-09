@@ -1,2 +1,2 @@
 # crispyzingy.github.io
-This is simple social media site sign up page
+This is a simple social media site sign up page
